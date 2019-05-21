@@ -1,0 +1,66 @@
+C:\Users\audit\source\repos\Dictianory\Dictianory\bin\Debug\Dictianory.exe.config
+C:\Users\audit\source\repos\Dictianory\Dictianory\bin\Debug\Dictianory.exe
+C:\Users\audit\source\repos\Dictianory\Dictianory\bin\Debug\Dictianory.pdb
+C:\Users\audit\source\repos\Dictianory\Dictianory\obj\Debug\Dictianory.Form1.resources
+C:\Users\audit\source\repos\Dictianory\Dictianory\obj\Debug\Dictianory.Properties.Resources.resources
+C:\Users\audit\source\repos\Dictianory\Dictianory\obj\Debug\Dictianory.csproj.GenerateResource.cache
+C:\Users\audit\source\repos\Dictianory\Dictianory\obj\Debug\Dictianory.csproj.CoreCompileInputs.cache
+C:\Users\audit\source\repos\Dictianory\Dictianory\obj\Debug\Dictianory.exe
+C:\Users\audit\source\repos\Dictianory\Dictianory\obj\Debug\Dictianory.pdb
+C:\Users\audit\source\repos\Dictianory\Dictianory\bin\Debug\aa-ER\Dictianory.resources.dll
+C:\Users\audit\source\repos\Dictianory\Dictianory\obj\Debug\Dictianory.Form1.aa-ER.resources
+C:\Users\audit\source\repos\Dictianory\Dictianory\obj\Debug\aa-ER\Dictianory.resources.dll
+C:\Users\audit\source\repos\Dictianory\Dictianory\bin\Debug\Dictianory.exe.manifest
+C:\Users\audit\source\repos\Dictianory\Dictianory\bin\Debug\Dictianory.application
+C:\Users\audit\source\repos\Dictianory\Dictianory\obj\Debug\Dictianory.exe.manifest
+C:\Users\audit\source\repos\Dictianory\Dictianory\obj\Debug\Dictianory.application
+C:\Users\audit\source\repos\Dictianory\Dictianory\obj\Debug\Dictianory.csprojAssemblyReference.cache
+E:\dict-svn\Dictionary_Project\branches\Dictianory\Dictianory\obj\Debug\Dictianory.csprojAssemblyReference.cache
+E:\dict-svn\Dictionary_Project\branches\Dictianory\Dictianory\obj\Debug\Dictianory.Properties.Resources.resources
+E:\dict-svn\Dictionary_Project\branches\Dictianory\Dictianory\obj\Debug\Dictianory.csproj.GenerateResource.cache
+E:\dict-svn\Dictionary_Project\branches\Dictianory\Dictianory\obj\Debug\Dictianory.csproj.CoreCompileInputs.cache
+E:\dict-svn\Dictionary_Project\branches\Dictianory\Dictianory\obj\Debug\Dictianory.exe
+E:\dict-svn\Dictionary_Project\branches\Dictianory\Dictianory\obj\Debug\Dictianory.pdb
+E:\dict-svn\Dictionary_Project\branches\Dictianory\Dictianory\bin\Debug\Dictianory.exe.config
+E:\dict-svn\Dictionary_Project\branches\Dictianory\Dictianory\bin\Debug\Dictianory.exe
+E:\dict-svn\Dictionary_Project\branches\Dictianory\Dictianory\bin\Debug\Dictianory.pdb
+E:\dict-svn\Dictionary_Project\branches\Dictianory\Dictianory\bin\Debug\System.Data.SQLite.dll
+E:\dict-svn\Dictionary_Project\branches\Dictianory\Dictianory\bin\Debug\System.Data.SQLite.xml
+E:\dict-svn\Dictionary_Project\branches\Dictianory\Dictianory\bin\Debug\System.Data.SQLite.dll.config
+E:\dict-svn\Dictionary_Project\branches\Dictianory\Dictianory\obj\Debug\Dictianory.Main_Form.resources
+E:\dict-svn\Dictionary_Project\branches\Dictianory\Dictianory\obj\Debug\Dictianory.csproj.CopyComplete
+C:\Users\pico\Documents\C#\New folder (2)\Dictionary_Project\branches\Dictianory\Dictianory\bin\Debug\DataTraining.txt
+C:\Users\pico\Documents\C#\New folder (2)\Dictionary_Project\branches\Dictianory\Dictianory\bin\Debug\Dictianory.exe.config
+C:\Users\pico\Documents\C#\New folder (2)\Dictionary_Project\branches\Dictianory\Dictianory\bin\Debug\Dictianory.exe
+C:\Users\pico\Documents\C#\New folder (2)\Dictionary_Project\branches\Dictianory\Dictianory\bin\Debug\Dictianory.pdb
+C:\Users\pico\Documents\C#\New folder (2)\Dictionary_Project\branches\Dictianory\Dictianory\bin\Debug\System.Data.SQLite.dll
+C:\Users\pico\Documents\C#\New folder (2)\Dictionary_Project\branches\Dictianory\Dictianory\bin\Debug\System.Data.SQLite.xml
+C:\Users\pico\Documents\C#\New folder (2)\Dictionary_Project\branches\Dictianory\Dictianory\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\pico\Documents\C#\New folder (2)\Dictionary_Project\branches\Dictianory\Dictianory\obj\Debug\Dictianory.csprojAssemblyReference.cache
+C:\Users\pico\Documents\C#\New folder (2)\Dictionary_Project\branches\Dictianory\Dictianory\obj\Debug\Dictianory.Main_Form.resources
+C:\Users\pico\Documents\C#\New folder (2)\Dictionary_Project\branches\Dictianory\Dictianory\obj\Debug\Dictianory.Properties.Resources.resources
+C:\Users\pico\Documents\C#\New folder (2)\Dictionary_Project\branches\Dictianory\Dictianory\obj\Debug\Dictianory.csproj.GenerateResource.cache
+C:\Users\pico\Documents\C#\New folder (2)\Dictionary_Project\branches\Dictianory\Dictianory\obj\Debug\Dictianory.csproj.CoreCompileInputs.cache
+C:\Users\pico\Documents\C#\New folder (2)\Dictionary_Project\branches\Dictianory\Dictianory\obj\Debug\Dictianory.csproj.CopyComplete
+C:\Users\pico\Documents\C#\New folder (2)\Dictionary_Project\branches\Dictianory\Dictianory\obj\Debug\Dictianory.exe
+C:\Users\pico\Documents\C#\New folder (2)\Dictionary_Project\branches\Dictianory\Dictianory\obj\Debug\Dictianory.pdb
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\bin\Debug\DataTraining.txt
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\bin\Debug\Dictianory.exe.config
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\bin\Debug\Dictianory.exe
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\bin\Debug\Dictianory.pdb
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\bin\Debug\RestSharp.dll
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\bin\Debug\System.Data.SQLite.dll
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\bin\Debug\RestSharp.xml
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\bin\Debug\System.Data.SQLite.xml
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\obj\Debug\Dictianory.csprojAssemblyReference.cache
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\obj\Debug\Dictianory.Main_Form.resources
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\obj\Debug\Dictianory.OtherLanguages.resources
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\obj\Debug\Dictianory.Properties.Resources.resources
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\obj\Debug\Dictianory.csproj.GenerateResource.cache
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\obj\Debug\Dictianory.csproj.CoreCompileInputs.cache
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\obj\Debug\Dictianory.csproj.CopyComplete
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\obj\Debug\Dictianory.exe
+C:\Users\pico\Documents\C#\dev\branches\Dictianory\Dictianory\obj\Debug\Dictianory.pdb
